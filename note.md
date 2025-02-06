@@ -4,6 +4,8 @@
 - ### Run on Terminal : `mkdir routes app views public`
 - ### Run on Terminal : `mkdir app/config app/middlewares app/controllers app/models app/utility`
 - ### Run on Terminal : `touch .gitignore index.js routes/api.js app/config/config.js`
+- ### Run on Terminal : `touch app/config/.gitkeep app/middlewares/.gitkeep app/controllers/.gitkeep app/models/.gitkeep app/utility/.gitkeep public/.gitkeep`
+tkeep views/gitkeep`
 ### All terminal commands:
 ```bash
 npm init --y
