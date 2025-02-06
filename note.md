@@ -1,7 +1,7 @@
 ## Best practices and File Folder Structure:
 - ### Run on Terminal : `npm init --y`
-- ### Run on Terminal : `npm i express cookie-parser body-parser cors express-rate-limit helmet hpp jsonwebtoken mongoose nodemailer nodemon`
-- ### Run on Terminal : `mkdir routes app`
+- ### Run on Terminal : `npm i express cookie-parser body-parser cors express-rate-limit helmet hpp jsonwebtoken mongoose nodemailer nodemon ejs`
+- ### Run on Terminal : `mkdir routes app views public`
 - ### Run on Terminal : `mkdir app/config app/middlewares app/controllers app/models app/utility`
 - ### Run on Terminal : `touch .gitignore index.js routes/api.js app/config/config.js`
 ### All terminal commands:
